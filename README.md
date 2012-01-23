@@ -3,7 +3,7 @@ Piddling Plugins
 
 Piddling Plugins is a simple way to enable plugin-style extensions to
 an application which can be enabled and disabled dynamically. It
-operates by using `CHANGE-CLASS` to dynamically add and remove
+operates by using `CHANGE-CLASS` to add and remove
 behavior mixins from an object.
 
 It was originally written for the [Shuffletron][shuf] music player. I considered naming it "trivial-plugins" but decided that was too presumptuous.
